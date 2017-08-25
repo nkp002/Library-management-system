@@ -1,6 +1,6 @@
-**Library Management System**
+**<span style="color: #f2cf4a; font-family: Babas; font-size: 16em;">LIBRARY MANAGEMENT SYSTEM</span>**
 
-**software interface**
+**software interface(1280X768)**
 
 -   **Splash Screen**
 
